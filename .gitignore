@@ -1,0 +1,12 @@
+# Uptime Kuma local data and secrets
+data/
+uptime-kuma.db
+*.db
+*.sqlite
+*.sqlite3
+.env
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
