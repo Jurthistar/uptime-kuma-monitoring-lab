@@ -1,6 +1,6 @@
 # Self-Hosted Uptime Monitoring Lab
 
-> A lightweight, self-hosted monitoring lab built with Uptime Kuma on Windows without Docker.
+> A lightweight, self-hosted monitoring lab built with Uptime Kuma on Windows.
 
 ![Dashboard overview](docs/screenshots/01-dashboard-overview.png)
 
@@ -68,7 +68,7 @@ See [docs/alert-test.md](docs/alert-test.md) for the test record.
 
 ![Failure and recovery evidence](docs/screenshots/03-alert-test.png)
 
-## Running Uptime Kuma without Docker
+## Running Uptime Kuma 
 
 Prerequisites: Node.js 20.4 or newer, Git, and PM2.
 
